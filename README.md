@@ -12,6 +12,7 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Docker Implementation
+
 1. Install Docker
 2. Add dockerfile and docker-compose.yml file
 3. Use `sudo docker compose up -d` command to build and start the dockerised application
