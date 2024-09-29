@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+1. Install Docker
+2. Add dockerfile and docker-conpose.yml file
+3. Use sudo docker compose up -d command to build and start the dockerised application
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
